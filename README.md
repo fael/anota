@@ -5,5 +5,5 @@ My note taker
 ```
 yarn [install]
 
-yarn run start [--devtools]
+yarn start [--devtools]
 ```
